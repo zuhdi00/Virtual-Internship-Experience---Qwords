@@ -2,7 +2,7 @@
 
 Clone the project
 
-git clone https://github.com/zuhdi00/Qwords-Rakamin.git
+git clone https://github.com/zuhdi00/Virtual-Internship-Experience-Qwords
 
 Go to the project directory
 
